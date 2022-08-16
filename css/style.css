@@ -22,7 +22,7 @@ h1 {
 .box-name{
   overflow: none;
   text-align: center;
-  border: 2px solid black;
+  border: 1px solid black;
   width: 100px;
   
   float: right;
